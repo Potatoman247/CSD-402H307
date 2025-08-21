@@ -20,11 +20,13 @@ public class Module2assignment {
             if (randomNum > 3) {
                 randomNum = randomNum - 1;
             }
+            
             // Get User Input
             System.out.print("Please Select 1 For Rock, 2 For Paper, Or 3 For Scissors: ");
             Scanner getInfo = new Scanner(System.in);
             int rpc = getInfo.nextInt();
-            // Game Winner Logic
+            
+            // Game Winner Logic            
             if(rpc > 0) {
                 if (rpc < 4) {
                     if (rpc == 1) {
