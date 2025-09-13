@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.module6assignment;
+package com.mycompany.module7assignment;
 
 /**
  *
- * Aidan Jacoby Module 6 Assignment 9/6/25
+ * Aidan Jacoby Module 6 Assignment 9/6/25; Port 9/13/25
  */
 public class Fan {
     public static final int STOPPED = 0;
